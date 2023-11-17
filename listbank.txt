@@ -1,0 +1,68 @@
+*LIST E-WALLET*
+1. OVO
+2. DANA
+3. LinkAja
+4. GoPay
+5. ShoppePay
+
+*LIST BANK*
+6. BCA
+7. MANDIRI
+8. BNI
+9. BRI
+10. BSI (Bank Syariah Indonesia)
+11. BCA Syariah
+12. BTN / BTN Syariah
+13. CIMB Niaga / CIMB Niaga Syariah
+14. DBS Bank Indonesia
+15. BTPN / Jenius / BPTN Wow
+16. Seabank / Bank BKE
+17. Danamon / Danamon Syariah
+18. Muamalat
+19. Bank Jago
+20. LINE Bank / KEB Hana
+21. blu by BCA Digital
+22. Nobu (Nationalnobu) Bank
+23. Bank Permata
+24. Maybank Indonesia
+25. Panin Bank
+26. TMRW / UOB
+27. OCBC NISP
+28. Citibank
+29. Bank Artha Graha Internasional
+30. Standard Chartered Bank
+31. ANZ Indonesia
+32. HSBC Indonesia
+33. Bank Mayapada
+34. BJB
+35. Bank DKI Jakarta
+36. BPD DIY
+37. Bank Jateng
+38. Bank Jatim
+39. Bank Jambi
+40. Bank Sumut
+41. Bank Sumbar (Bank Nagari)
+42. Bank Riau Kepri
+43. Bank Sumsel Babel
+44. Bank Lampung
+45. Bank Kalsel
+46. Bank Kalbar
+47. Bank Kaltimtara
+48. Bank Kalteng
+49. Bank Sulselbar
+50. Bank SulutGo
+51. Bank NTB Syariah
+52. BPD Bali
+53. Bank NTT
+54. Bank Maluku
+55. Bank Papua
+56. Bank Bengkulu
+57. Bank Sulteng
+58. Bank Sultra
+59. Bank Sinarmas
+60. Bank Maspion Indonesia
+61. Bank Ganesha
+62. Bank Mega
+63. Bank Mega Syariah
+64. Commonwealth Bank
+65. Bank Aceh Syariah
